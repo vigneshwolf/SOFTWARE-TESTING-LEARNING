@@ -1,0 +1,43 @@
+                              Software testing and Learning by payilagam website.
+
+First of all What is TESTING?
+Ans : Testing is about what is expected and what is actual.Comparing these two is called testing. The main objective of testing is Checking the quality of app or website etc.  Software testing is a way to assess the quality of the
+software and to reduce the risk of software failure in operation.
+
+
+
+There are two types of Software testing:
+1) Manual testing
+2) Automation testing.
+
+So whats the diffrence between manual and Automation tesing? lets see about that:
+
+1)Automation testing:
+
+    For Automation Testing we are using tools like selinium and other tools are useful for Automation Testing.
+
+2)Manual Testing:
+
+    We are going to test manually how a application is working by manually:
+
+What are the chapters in Software testing.
+
+Chapter-1 : Quality and testing.
+
+Chapter-2 : SDLC(Software Development Live Cycle).
+
+Chapter-3 : Types of Testing.
+          1)Static testing.
+	  2)Dynamic Testing.
+
+Chapter-4 : STLC(Software Testing Live Cycle).
+
+Chapter-5 : DLC(or)BLC(Defective Live Cycle).
+
+Chapter-6 : Testing Technique.
+
+Chapter-7 : Functionality and NON-Funcnonality.
+
+Chapter-8 : Metrics and Models.
+
+Chapter-9 : SQL Basics.
