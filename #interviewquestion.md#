@@ -33,3 +33,5 @@ ANS:quality is the mmismatch between expected and actual and the meeting the exp
    https
    HTTPS stands for Hyper Text Transfer Protocol Secure. It is highly advanced and secure version of HTTP. It uses the port no. 443 for Data Communication. It is a combination of SSL/TLS protocol and HTTP. It provides encrypted and secure identification of a network server.
 
+5) Mobile application testing.
+
